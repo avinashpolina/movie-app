@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Node / Next.js
+node_modules/
+.next/
+dist/
+.env
